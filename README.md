@@ -23,6 +23,7 @@ The example skills in this repo are open source (Apache 2.0). We've also include
 **These skills are provided for demonstration and educational purposes only.** While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these examples. These examples are meant to illustrate patterns and possibilities. Always test skills thoroughly in your own environment before relying on them for critical tasks.
 
 # Example Skills
+Test commit for Base Builders verification.
 
 This repository includes a diverse collection of example skills demonstrating different capabilities:
 
